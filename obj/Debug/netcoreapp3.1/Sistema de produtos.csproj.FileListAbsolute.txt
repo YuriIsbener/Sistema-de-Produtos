@@ -1,0 +1,13 @@
+C:\Users\yuris\Desktop\Sistema de produtos\bin\Debug\netcoreapp3.1\Sistema de produtos.exe
+C:\Users\yuris\Desktop\Sistema de produtos\bin\Debug\netcoreapp3.1\Sistema de produtos.deps.json
+C:\Users\yuris\Desktop\Sistema de produtos\bin\Debug\netcoreapp3.1\Sistema de produtos.runtimeconfig.json
+C:\Users\yuris\Desktop\Sistema de produtos\bin\Debug\netcoreapp3.1\Sistema de produtos.runtimeconfig.dev.json
+C:\Users\yuris\Desktop\Sistema de produtos\bin\Debug\netcoreapp3.1\Sistema de produtos.dll
+C:\Users\yuris\Desktop\Sistema de produtos\bin\Debug\netcoreapp3.1\Sistema de produtos.pdb
+C:\Users\yuris\Desktop\Sistema de produtos\obj\Debug\netcoreapp3.1\Sistema de produtos.csprojAssemblyReference.cache
+C:\Users\yuris\Desktop\Sistema de produtos\obj\Debug\netcoreapp3.1\Sistema de produtos.AssemblyInfoInputs.cache
+C:\Users\yuris\Desktop\Sistema de produtos\obj\Debug\netcoreapp3.1\Sistema de produtos.AssemblyInfo.cs
+C:\Users\yuris\Desktop\Sistema de produtos\obj\Debug\netcoreapp3.1\Sistema de produtos.csproj.CoreCompileInputs.cache
+C:\Users\yuris\Desktop\Sistema de produtos\obj\Debug\netcoreapp3.1\Sistema de produtos.dll
+C:\Users\yuris\Desktop\Sistema de produtos\obj\Debug\netcoreapp3.1\Sistema de produtos.pdb
+C:\Users\yuris\Desktop\Sistema de produtos\obj\Debug\netcoreapp3.1\Sistema de produtos.genruntimeconfig.cache
